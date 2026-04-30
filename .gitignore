@@ -22,7 +22,6 @@ data/
 *.iws
 *.iml
 *.ipr
-*.png
 out/
 
 /nbproject/private/
